@@ -15,7 +15,7 @@
        "group": "pre-commit",
        "command": "dotnet-format",
        "args": ["--include", "${staged}"],
-       "include": ["**/*.cs"]
+       "include": ["*"]
      }
    ]
 }
