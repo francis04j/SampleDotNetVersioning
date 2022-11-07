@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.0.0"></a>
+## [2.0.0](https://www.github.com/francis04j/SampleDotNetVersioning/releases/tag/v2.0.0) (2022-11-7)
+
+### Features
+
+* test major versioning ([c752039](https://www.github.com/francis04j/SampleDotNetVersioning/commit/c75203951b1256ea23496283c94c7f59e45c2a11))
+
+### Breaking Changes
+
+* test major versioning ([c752039](https://www.github.com/francis04j/SampleDotNetVersioning/commit/c75203951b1256ea23496283c94c7f59e45c2a11))
+
+### Other
+
+* merge with main ([d84e21b](https://www.github.com/francis04j/SampleDotNetVersioning/commit/d84e21bdae7e7f4815a25cbaf12c80db2cf93656))
+
 <a name="1.2.0"></a>
 ## [1.2.0](https://www.github.com/francis04j/SampleDotNetVersioning/releases/tag/v1.2.0) (2022-11-7)
 
